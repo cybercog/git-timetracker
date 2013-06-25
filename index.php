@@ -32,7 +32,7 @@ foreach($log as $line) {
 <html>
 	<head>
 		<meta charset="utf-8"/>
-		<title>Fotosummit Billing</title>
+		<title>Billing for <?php echo $repositoryPath; ?></title>
 
 		<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet">
 		<style>
