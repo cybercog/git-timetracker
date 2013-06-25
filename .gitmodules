@@ -1,0 +1,3 @@
+[submodule "php-git"]
+	path = php-git
+	url = git@github.com:t-visualappeal/Git.php.git
